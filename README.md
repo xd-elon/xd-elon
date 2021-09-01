@@ -1,6 +1,7 @@
-### Hi there 👋
+##  Olá me chamo Alan Delon.
 
-hello my name and Alan Delon, skill javascript, typescript, nodejs, React and React native .
-
-
-<p align="flex-end"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xd-elon&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+ <div>
+  <a href="https://github.com/xd-elon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xd-elon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xd-elon&layout=compact&langs_count=7&theme=dracula"/>
+</div>
